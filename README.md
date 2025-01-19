@@ -1,0 +1,1 @@
+This is an HTML site containing multiple recipes for the purpose of learning Git, GitHub, and HTML for The Odin Project.
